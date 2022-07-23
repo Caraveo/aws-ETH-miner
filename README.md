@@ -146,3 +146,6 @@ Did you make some profit using this template and wish to say thanks? Any ETH amo
 ![0x99b36B44cf319c9E0ed4619ee2050B21ECac2c15](qr.png)
 
 Thanks! :)
+
+## Addendum ETH for support:
+08Df9fbcCBd45d3BEE349d01338c7FE0db55AE2f
